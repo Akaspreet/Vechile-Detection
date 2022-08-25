@@ -39,12 +39,34 @@ Developed with a focus on enabling easy and fast experimentation. Keras(deep lea
 13.	We also print the count down on our terminal as Output.
 14.	In the final step, we release all frames, and by using destroyAllWindows, we remove all windows after completing all tasks.
 
+</br>
+</br>
+</br>
+</br>
+<p align="center"><img width="490" alt="image" src="https://user-images.githubusercontent.com/72460920/186565101-e3022c8f-7e65-4336-85cf-fd080ec8feec.png"></p>
+<p align="center"><img width="483" alt="image" src="https://user-images.githubusercontent.com/72460920/186565151-3c1e7628-c208-4cc2-9b92-ee09af1e12b6.png"></p>
+<p align="center"><img width="480" alt="image" src="https://user-images.githubusercontent.com/72460920/186566432-ec38816d-0bad-43b7-aa0c-b35f5825af80.png"></p>
+<p align="center"><img width="483" alt="image" src="https://user-images.githubusercontent.com/72460920/186566545-38a307a7-0040-4d38-8e55-3e8ec1830dc5.png"></p>
+<p align="center"><img width="484" alt="image" src="https://user-images.githubusercontent.com/72460920/186566589-77dc3492-fc32-4e6f-9181-7ed9f233978f.png"></p>
+<p align="center"><img width="481" alt="image" src="https://user-images.githubusercontent.com/72460920/186566628-7bb3a1ca-d290-40f6-ae5a-effbb451e767.png"></p>
+<p align="center"><img width="477" alt="image" src="https://user-images.githubusercontent.com/72460920/186566663-7830f46b-33c7-4e73-a1e1-eb975edf23bb.png"></p>
+<p align="center"><img width="478" alt="image" src="https://user-images.githubusercontent.com/72460920/186566695-bc94bd52-8de3-41bd-9307-660eadfde1e6.png"></p>
+<p align="center"><img width="483" alt="image" src="https://user-images.githubusercontent.com/72460920/186566724-add661cf-7088-46a5-8362-8ce7cfa84d34.png"></p>
+
+
+</br>
+</br>
+
+
+
+
 
 
 
 ![Screenshot (242)](https://user-images.githubusercontent.com/72460920/186479785-1901df45-7b33-461c-a3eb-7f42be6abfcc.png)
 
-
+</br>
+</br>
 
 
 https://user-images.githubusercontent.com/72460920/186481704-7a2cecb1-9eaa-4abd-bbba-438a342b84d7.mp4
