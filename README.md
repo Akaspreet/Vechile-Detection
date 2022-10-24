@@ -69,7 +69,11 @@ Developed with a focus on enabling easy and fast experimentation. Keras(deep lea
 </br>
 
 
-https://user-images.githubusercontent.com/72460920/186481704-7a2cecb1-9eaa-4abd-bbba-438a342b84d7.mp4
+
+
+
+https://user-images.githubusercontent.com/72460920/197558617-9c63353a-5de4-418a-9423-f300c1fe0d73.mp4
+
 
 
 
